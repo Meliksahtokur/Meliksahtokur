@@ -7,7 +7,7 @@ I design the data model for domains that have real rules, and then I build it �
 that enforce their own constraints, workflows that run unattended, and data pipelines that
 survive the source changing shape.
 
-Based in Antalya, Türkiye (GMT+3). Working with clients across Europe and the US.
+Based in Aydın, Türkiye (GMT+3). Working with clients across Europe and the US.
 
 ---
 
@@ -58,5 +58,5 @@ architectural decision was made, and what it cost
 
 Business process automation · internal tools · PostgreSQL-backed applications · MCP servers
 
-📫 [Reach me here](https://github.com/Meliksahtokur) · Antalya, GMT+3 — overlapping European
+📫 [Reach me here](https://github.com/Meliksahtokur) · Aydın, GMT+3 — overlapping European
 hours in full
